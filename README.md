@@ -26,7 +26,7 @@
 
 # 部署方式
 
-## 建议直接看视频 YouTube链接：
+### 建议直接看视频 YouTube链接：
 
 1.  打开 Cloudflare Dashboard\
 2.  进入 **Workers & Pages**
